@@ -1,0 +1,5 @@
+import './x.scss'
+export default 'xxx'
+import './x.css'
+import './x.less'
+import './x.styl'
